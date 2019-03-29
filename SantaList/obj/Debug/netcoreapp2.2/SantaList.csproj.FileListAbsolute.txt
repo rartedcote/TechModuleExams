@@ -1,0 +1,10 @@
+C:\Users\vasko\source\repos\Exam\SantaList\bin\Debug\netcoreapp2.2\SantaList.deps.json
+C:\Users\vasko\source\repos\Exam\SantaList\bin\Debug\netcoreapp2.2\SantaList.runtimeconfig.json
+C:\Users\vasko\source\repos\Exam\SantaList\bin\Debug\netcoreapp2.2\SantaList.runtimeconfig.dev.json
+C:\Users\vasko\source\repos\Exam\SantaList\bin\Debug\netcoreapp2.2\SantaList.dll
+C:\Users\vasko\source\repos\Exam\SantaList\bin\Debug\netcoreapp2.2\SantaList.pdb
+C:\Users\vasko\source\repos\Exam\SantaList\obj\Debug\netcoreapp2.2\SantaList.csproj.CoreCompileInputs.cache
+C:\Users\vasko\source\repos\Exam\SantaList\obj\Debug\netcoreapp2.2\SantaList.AssemblyInfoInputs.cache
+C:\Users\vasko\source\repos\Exam\SantaList\obj\Debug\netcoreapp2.2\SantaList.AssemblyInfo.cs
+C:\Users\vasko\source\repos\Exam\SantaList\obj\Debug\netcoreapp2.2\SantaList.dll
+C:\Users\vasko\source\repos\Exam\SantaList\obj\Debug\netcoreapp2.2\SantaList.pdb

@@ -1,0 +1,11 @@
+C:\Users\vasko\source\repos\Exam\CookingFactory\bin\Debug\netcoreapp2.2\CookingFactory.deps.json
+C:\Users\vasko\source\repos\Exam\CookingFactory\bin\Debug\netcoreapp2.2\CookingFactory.runtimeconfig.json
+C:\Users\vasko\source\repos\Exam\CookingFactory\bin\Debug\netcoreapp2.2\CookingFactory.runtimeconfig.dev.json
+C:\Users\vasko\source\repos\Exam\CookingFactory\bin\Debug\netcoreapp2.2\CookingFactory.dll
+C:\Users\vasko\source\repos\Exam\CookingFactory\bin\Debug\netcoreapp2.2\CookingFactory.pdb
+C:\Users\vasko\source\repos\Exam\CookingFactory\obj\Debug\netcoreapp2.2\CookingFactory.csprojAssemblyReference.cache
+C:\Users\vasko\source\repos\Exam\CookingFactory\obj\Debug\netcoreapp2.2\CookingFactory.csproj.CoreCompileInputs.cache
+C:\Users\vasko\source\repos\Exam\CookingFactory\obj\Debug\netcoreapp2.2\CookingFactory.AssemblyInfoInputs.cache
+C:\Users\vasko\source\repos\Exam\CookingFactory\obj\Debug\netcoreapp2.2\CookingFactory.AssemblyInfo.cs
+C:\Users\vasko\source\repos\Exam\CookingFactory\obj\Debug\netcoreapp2.2\CookingFactory.dll
+C:\Users\vasko\source\repos\Exam\CookingFactory\obj\Debug\netcoreapp2.2\CookingFactory.pdb

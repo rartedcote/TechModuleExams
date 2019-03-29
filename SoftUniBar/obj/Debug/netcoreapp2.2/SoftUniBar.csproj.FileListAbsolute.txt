@@ -1,0 +1,11 @@
+C:\Users\vasko\source\repos\Exam\SoftUniBar\bin\Debug\netcoreapp2.2\SoftUniBar.deps.json
+C:\Users\vasko\source\repos\Exam\SoftUniBar\bin\Debug\netcoreapp2.2\SoftUniBar.runtimeconfig.json
+C:\Users\vasko\source\repos\Exam\SoftUniBar\bin\Debug\netcoreapp2.2\SoftUniBar.runtimeconfig.dev.json
+C:\Users\vasko\source\repos\Exam\SoftUniBar\bin\Debug\netcoreapp2.2\SoftUniBar.dll
+C:\Users\vasko\source\repos\Exam\SoftUniBar\bin\Debug\netcoreapp2.2\SoftUniBar.pdb
+C:\Users\vasko\source\repos\Exam\SoftUniBar\obj\Debug\netcoreapp2.2\SoftUniBar.csprojAssemblyReference.cache
+C:\Users\vasko\source\repos\Exam\SoftUniBar\obj\Debug\netcoreapp2.2\SoftUniBar.csproj.CoreCompileInputs.cache
+C:\Users\vasko\source\repos\Exam\SoftUniBar\obj\Debug\netcoreapp2.2\SoftUniBar.AssemblyInfoInputs.cache
+C:\Users\vasko\source\repos\Exam\SoftUniBar\obj\Debug\netcoreapp2.2\SoftUniBar.AssemblyInfo.cs
+C:\Users\vasko\source\repos\Exam\SoftUniBar\obj\Debug\netcoreapp2.2\SoftUniBar.dll
+C:\Users\vasko\source\repos\Exam\SoftUniBar\obj\Debug\netcoreapp2.2\SoftUniBar.pdb

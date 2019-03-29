@@ -1,0 +1,11 @@
+C:\Users\vasko\source\repos\Exam\BreadFactory\bin\Debug\netcoreapp2.2\BreadFactory.deps.json
+C:\Users\vasko\source\repos\Exam\BreadFactory\bin\Debug\netcoreapp2.2\BreadFactory.runtimeconfig.json
+C:\Users\vasko\source\repos\Exam\BreadFactory\bin\Debug\netcoreapp2.2\BreadFactory.runtimeconfig.dev.json
+C:\Users\vasko\source\repos\Exam\BreadFactory\bin\Debug\netcoreapp2.2\BreadFactory.dll
+C:\Users\vasko\source\repos\Exam\BreadFactory\bin\Debug\netcoreapp2.2\BreadFactory.pdb
+C:\Users\vasko\source\repos\Exam\BreadFactory\obj\Debug\netcoreapp2.2\BreadFactory.csprojAssemblyReference.cache
+C:\Users\vasko\source\repos\Exam\BreadFactory\obj\Debug\netcoreapp2.2\BreadFactory.csproj.CoreCompileInputs.cache
+C:\Users\vasko\source\repos\Exam\BreadFactory\obj\Debug\netcoreapp2.2\BreadFactory.AssemblyInfoInputs.cache
+C:\Users\vasko\source\repos\Exam\BreadFactory\obj\Debug\netcoreapp2.2\BreadFactory.AssemblyInfo.cs
+C:\Users\vasko\source\repos\Exam\BreadFactory\obj\Debug\netcoreapp2.2\BreadFactory.dll
+C:\Users\vasko\source\repos\Exam\BreadFactory\obj\Debug\netcoreapp2.2\BreadFactory.pdb

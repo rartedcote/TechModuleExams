@@ -1,0 +1,10 @@
+C:\Users\vasko\source\repos\Exam\PresentDelivery\bin\Debug\netcoreapp2.2\PresentDelivery.deps.json
+C:\Users\vasko\source\repos\Exam\PresentDelivery\bin\Debug\netcoreapp2.2\PresentDelivery.runtimeconfig.json
+C:\Users\vasko\source\repos\Exam\PresentDelivery\bin\Debug\netcoreapp2.2\PresentDelivery.runtimeconfig.dev.json
+C:\Users\vasko\source\repos\Exam\PresentDelivery\bin\Debug\netcoreapp2.2\PresentDelivery.dll
+C:\Users\vasko\source\repos\Exam\PresentDelivery\bin\Debug\netcoreapp2.2\PresentDelivery.pdb
+C:\Users\vasko\source\repos\Exam\PresentDelivery\obj\Debug\netcoreapp2.2\PresentDelivery.csproj.CoreCompileInputs.cache
+C:\Users\vasko\source\repos\Exam\PresentDelivery\obj\Debug\netcoreapp2.2\PresentDelivery.AssemblyInfoInputs.cache
+C:\Users\vasko\source\repos\Exam\PresentDelivery\obj\Debug\netcoreapp2.2\PresentDelivery.AssemblyInfo.cs
+C:\Users\vasko\source\repos\Exam\PresentDelivery\obj\Debug\netcoreapp2.2\PresentDelivery.dll
+C:\Users\vasko\source\repos\Exam\PresentDelivery\obj\Debug\netcoreapp2.2\PresentDelivery.pdb

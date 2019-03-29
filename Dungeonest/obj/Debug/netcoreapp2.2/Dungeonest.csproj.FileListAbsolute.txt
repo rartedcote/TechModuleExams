@@ -1,0 +1,11 @@
+C:\Users\vasko\source\repos\Exam\Dungeonest\bin\Debug\netcoreapp2.2\Dungeonest.deps.json
+C:\Users\vasko\source\repos\Exam\Dungeonest\bin\Debug\netcoreapp2.2\Dungeonest.runtimeconfig.json
+C:\Users\vasko\source\repos\Exam\Dungeonest\bin\Debug\netcoreapp2.2\Dungeonest.runtimeconfig.dev.json
+C:\Users\vasko\source\repos\Exam\Dungeonest\bin\Debug\netcoreapp2.2\Dungeonest.dll
+C:\Users\vasko\source\repos\Exam\Dungeonest\bin\Debug\netcoreapp2.2\Dungeonest.pdb
+C:\Users\vasko\source\repos\Exam\Dungeonest\obj\Debug\netcoreapp2.2\Dungeonest.csprojAssemblyReference.cache
+C:\Users\vasko\source\repos\Exam\Dungeonest\obj\Debug\netcoreapp2.2\Dungeonest.csproj.CoreCompileInputs.cache
+C:\Users\vasko\source\repos\Exam\Dungeonest\obj\Debug\netcoreapp2.2\Dungeonest.AssemblyInfoInputs.cache
+C:\Users\vasko\source\repos\Exam\Dungeonest\obj\Debug\netcoreapp2.2\Dungeonest.AssemblyInfo.cs
+C:\Users\vasko\source\repos\Exam\Dungeonest\obj\Debug\netcoreapp2.2\Dungeonest.dll
+C:\Users\vasko\source\repos\Exam\Dungeonest\obj\Debug\netcoreapp2.2\Dungeonest.pdb

@@ -1,0 +1,10 @@
+C:\Users\vasko\source\repos\Exam\CookingMasterclass\bin\Debug\netcoreapp2.2\CookingMasterclass.deps.json
+C:\Users\vasko\source\repos\Exam\CookingMasterclass\bin\Debug\netcoreapp2.2\CookingMasterclass.runtimeconfig.json
+C:\Users\vasko\source\repos\Exam\CookingMasterclass\bin\Debug\netcoreapp2.2\CookingMasterclass.runtimeconfig.dev.json
+C:\Users\vasko\source\repos\Exam\CookingMasterclass\bin\Debug\netcoreapp2.2\CookingMasterclass.dll
+C:\Users\vasko\source\repos\Exam\CookingMasterclass\bin\Debug\netcoreapp2.2\CookingMasterclass.pdb
+C:\Users\vasko\source\repos\Exam\CookingMasterclass\obj\Debug\netcoreapp2.2\CookingMasterclass.csproj.CoreCompileInputs.cache
+C:\Users\vasko\source\repos\Exam\CookingMasterclass\obj\Debug\netcoreapp2.2\CookingMasterclass.AssemblyInfoInputs.cache
+C:\Users\vasko\source\repos\Exam\CookingMasterclass\obj\Debug\netcoreapp2.2\CookingMasterclass.AssemblyInfo.cs
+C:\Users\vasko\source\repos\Exam\CookingMasterclass\obj\Debug\netcoreapp2.2\CookingMasterclass.dll
+C:\Users\vasko\source\repos\Exam\CookingMasterclass\obj\Debug\netcoreapp2.2\CookingMasterclass.pdb

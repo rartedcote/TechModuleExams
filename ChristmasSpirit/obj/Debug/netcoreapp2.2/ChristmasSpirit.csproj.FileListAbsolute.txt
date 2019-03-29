@@ -1,0 +1,10 @@
+C:\Users\vasko\source\repos\Exam\ChristmasSpirit\bin\Debug\netcoreapp2.2\ChristmasSpirit.deps.json
+C:\Users\vasko\source\repos\Exam\ChristmasSpirit\bin\Debug\netcoreapp2.2\ChristmasSpirit.runtimeconfig.json
+C:\Users\vasko\source\repos\Exam\ChristmasSpirit\bin\Debug\netcoreapp2.2\ChristmasSpirit.runtimeconfig.dev.json
+C:\Users\vasko\source\repos\Exam\ChristmasSpirit\bin\Debug\netcoreapp2.2\ChristmasSpirit.dll
+C:\Users\vasko\source\repos\Exam\ChristmasSpirit\bin\Debug\netcoreapp2.2\ChristmasSpirit.pdb
+C:\Users\vasko\source\repos\Exam\ChristmasSpirit\obj\Debug\netcoreapp2.2\ChristmasSpirit.csproj.CoreCompileInputs.cache
+C:\Users\vasko\source\repos\Exam\ChristmasSpirit\obj\Debug\netcoreapp2.2\ChristmasSpirit.AssemblyInfoInputs.cache
+C:\Users\vasko\source\repos\Exam\ChristmasSpirit\obj\Debug\netcoreapp2.2\ChristmasSpirit.AssemblyInfo.cs
+C:\Users\vasko\source\repos\Exam\ChristmasSpirit\obj\Debug\netcoreapp2.2\ChristmasSpirit.dll
+C:\Users\vasko\source\repos\Exam\ChristmasSpirit\obj\Debug\netcoreapp2.2\ChristmasSpirit.pdb

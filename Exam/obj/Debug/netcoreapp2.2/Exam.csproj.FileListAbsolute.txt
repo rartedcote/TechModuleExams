@@ -1,0 +1,11 @@
+C:\Users\vasko\source\repos\Exam\Exam\bin\Debug\netcoreapp2.2\Exam.deps.json
+C:\Users\vasko\source\repos\Exam\Exam\bin\Debug\netcoreapp2.2\Exam.runtimeconfig.json
+C:\Users\vasko\source\repos\Exam\Exam\bin\Debug\netcoreapp2.2\Exam.runtimeconfig.dev.json
+C:\Users\vasko\source\repos\Exam\Exam\bin\Debug\netcoreapp2.2\Exam.dll
+C:\Users\vasko\source\repos\Exam\Exam\bin\Debug\netcoreapp2.2\Exam.pdb
+C:\Users\vasko\source\repos\Exam\Exam\obj\Debug\netcoreapp2.2\Exam.csprojAssemblyReference.cache
+C:\Users\vasko\source\repos\Exam\Exam\obj\Debug\netcoreapp2.2\Exam.csproj.CoreCompileInputs.cache
+C:\Users\vasko\source\repos\Exam\Exam\obj\Debug\netcoreapp2.2\Exam.AssemblyInfoInputs.cache
+C:\Users\vasko\source\repos\Exam\Exam\obj\Debug\netcoreapp2.2\Exam.AssemblyInfo.cs
+C:\Users\vasko\source\repos\Exam\Exam\obj\Debug\netcoreapp2.2\Exam.dll
+C:\Users\vasko\source\repos\Exam\Exam\obj\Debug\netcoreapp2.2\Exam.pdb
