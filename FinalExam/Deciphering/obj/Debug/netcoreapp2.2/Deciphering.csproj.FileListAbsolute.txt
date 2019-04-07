@@ -1,0 +1,11 @@
+C:\Users\vasko\source\repos\FinalExam\Deciphering\bin\Debug\netcoreapp2.2\Deciphering.deps.json
+C:\Users\vasko\source\repos\FinalExam\Deciphering\bin\Debug\netcoreapp2.2\Deciphering.runtimeconfig.json
+C:\Users\vasko\source\repos\FinalExam\Deciphering\bin\Debug\netcoreapp2.2\Deciphering.runtimeconfig.dev.json
+C:\Users\vasko\source\repos\FinalExam\Deciphering\bin\Debug\netcoreapp2.2\Deciphering.dll
+C:\Users\vasko\source\repos\FinalExam\Deciphering\bin\Debug\netcoreapp2.2\Deciphering.pdb
+C:\Users\vasko\source\repos\FinalExam\Deciphering\obj\Debug\netcoreapp2.2\Deciphering.csprojAssemblyReference.cache
+C:\Users\vasko\source\repos\FinalExam\Deciphering\obj\Debug\netcoreapp2.2\Deciphering.csproj.CoreCompileInputs.cache
+C:\Users\vasko\source\repos\FinalExam\Deciphering\obj\Debug\netcoreapp2.2\Deciphering.AssemblyInfoInputs.cache
+C:\Users\vasko\source\repos\FinalExam\Deciphering\obj\Debug\netcoreapp2.2\Deciphering.AssemblyInfo.cs
+C:\Users\vasko\source\repos\FinalExam\Deciphering\obj\Debug\netcoreapp2.2\Deciphering.dll
+C:\Users\vasko\source\repos\FinalExam\Deciphering\obj\Debug\netcoreapp2.2\Deciphering.pdb

@@ -1,0 +1,11 @@
+C:\Users\vasko\source\repos\FinalExam\ActivationKeys\bin\Debug\netcoreapp2.2\ActivationKeys.deps.json
+C:\Users\vasko\source\repos\FinalExam\ActivationKeys\bin\Debug\netcoreapp2.2\ActivationKeys.runtimeconfig.json
+C:\Users\vasko\source\repos\FinalExam\ActivationKeys\bin\Debug\netcoreapp2.2\ActivationKeys.runtimeconfig.dev.json
+C:\Users\vasko\source\repos\FinalExam\ActivationKeys\bin\Debug\netcoreapp2.2\ActivationKeys.dll
+C:\Users\vasko\source\repos\FinalExam\ActivationKeys\bin\Debug\netcoreapp2.2\ActivationKeys.pdb
+C:\Users\vasko\source\repos\FinalExam\ActivationKeys\obj\Debug\netcoreapp2.2\ActivationKeys.csprojAssemblyReference.cache
+C:\Users\vasko\source\repos\FinalExam\ActivationKeys\obj\Debug\netcoreapp2.2\ActivationKeys.csproj.CoreCompileInputs.cache
+C:\Users\vasko\source\repos\FinalExam\ActivationKeys\obj\Debug\netcoreapp2.2\ActivationKeys.AssemblyInfoInputs.cache
+C:\Users\vasko\source\repos\FinalExam\ActivationKeys\obj\Debug\netcoreapp2.2\ActivationKeys.AssemblyInfo.cs
+C:\Users\vasko\source\repos\FinalExam\ActivationKeys\obj\Debug\netcoreapp2.2\ActivationKeys.dll
+C:\Users\vasko\source\repos\FinalExam\ActivationKeys\obj\Debug\netcoreapp2.2\ActivationKeys.pdb

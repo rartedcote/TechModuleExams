@@ -1,0 +1,11 @@
+C:\Users\vasko\source\repos\FinalExam\Dictionary\bin\Debug\netcoreapp2.2\Dictionary.deps.json
+C:\Users\vasko\source\repos\FinalExam\Dictionary\bin\Debug\netcoreapp2.2\Dictionary.runtimeconfig.json
+C:\Users\vasko\source\repos\FinalExam\Dictionary\bin\Debug\netcoreapp2.2\Dictionary.runtimeconfig.dev.json
+C:\Users\vasko\source\repos\FinalExam\Dictionary\bin\Debug\netcoreapp2.2\Dictionary.dll
+C:\Users\vasko\source\repos\FinalExam\Dictionary\bin\Debug\netcoreapp2.2\Dictionary.pdb
+C:\Users\vasko\source\repos\FinalExam\Dictionary\obj\Debug\netcoreapp2.2\Dictionary.csprojAssemblyReference.cache
+C:\Users\vasko\source\repos\FinalExam\Dictionary\obj\Debug\netcoreapp2.2\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\vasko\source\repos\FinalExam\Dictionary\obj\Debug\netcoreapp2.2\Dictionary.AssemblyInfoInputs.cache
+C:\Users\vasko\source\repos\FinalExam\Dictionary\obj\Debug\netcoreapp2.2\Dictionary.AssemblyInfo.cs
+C:\Users\vasko\source\repos\FinalExam\Dictionary\obj\Debug\netcoreapp2.2\Dictionary.dll
+C:\Users\vasko\source\repos\FinalExam\Dictionary\obj\Debug\netcoreapp2.2\Dictionary.pdb

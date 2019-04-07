@@ -1,0 +1,11 @@
+C:\Users\vasko\source\repos\FinalExam\FinalExam\bin\Debug\netcoreapp2.2\FinalExam.deps.json
+C:\Users\vasko\source\repos\FinalExam\FinalExam\bin\Debug\netcoreapp2.2\FinalExam.runtimeconfig.json
+C:\Users\vasko\source\repos\FinalExam\FinalExam\bin\Debug\netcoreapp2.2\FinalExam.runtimeconfig.dev.json
+C:\Users\vasko\source\repos\FinalExam\FinalExam\bin\Debug\netcoreapp2.2\FinalExam.dll
+C:\Users\vasko\source\repos\FinalExam\FinalExam\bin\Debug\netcoreapp2.2\FinalExam.pdb
+C:\Users\vasko\source\repos\FinalExam\FinalExam\obj\Debug\netcoreapp2.2\FinalExam.csprojAssemblyReference.cache
+C:\Users\vasko\source\repos\FinalExam\FinalExam\obj\Debug\netcoreapp2.2\FinalExam.csproj.CoreCompileInputs.cache
+C:\Users\vasko\source\repos\FinalExam\FinalExam\obj\Debug\netcoreapp2.2\FinalExam.AssemblyInfoInputs.cache
+C:\Users\vasko\source\repos\FinalExam\FinalExam\obj\Debug\netcoreapp2.2\FinalExam.AssemblyInfo.cs
+C:\Users\vasko\source\repos\FinalExam\FinalExam\obj\Debug\netcoreapp2.2\FinalExam.dll
+C:\Users\vasko\source\repos\FinalExam\FinalExam\obj\Debug\netcoreapp2.2\FinalExam.pdb
